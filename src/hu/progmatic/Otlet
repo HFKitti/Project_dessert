@@ -1,0 +1,28 @@
+Édesség receptkönyv
+
+1. cél, funkció (specifikáció)
+
+    Csak hozzávaló megadásával recept lista kapható
+
+    ----->
+
+    legyenek konkrét receptek
+    egyszerű és kevés hozzávalóval
+    legyen átfedés a receptek hozzávalói között
+
+2. eszközök
+
+    IntelliJ + Java
+
+    Milyen osztályok kellenek?
+    Az osztályok kapcsolata
+
+3. lehetőségek
+
+    - egy alapanyag több recept           //tojás : 6 recept
+    - több alapanyag kevesebb recept      //tojás, alma : 2 recept
+    - alapanyag mennyiség alapján recept  //2 db tojás : 3 recept
+
+
+
+
